@@ -8,3 +8,31 @@ body {
      border: 1px dotted gray;
      padding: 20px;
 }
+
+.title{
+     padding-top: 20vh;
+  padding-bottom: 1vh;
+ 
+  text-align: center;
+  
+}
+
+.title img{
+	width: 50%
+
+}
+
+.info{
+	padding-top: 1vh;
+  	padding-bottom: 5vh;
+ 
+  	text-align: center;
+}
+
+.info img{
+	width:30%;
+}
+
+.button{
+	text-align: center;
+}
